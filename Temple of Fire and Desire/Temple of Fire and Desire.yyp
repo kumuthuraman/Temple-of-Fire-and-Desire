@@ -3,6 +3,14 @@
   "resourceVersion": "1.6",
   "name": "Temple of Fire and Desire",
   "resources": [
+    {"id":{"name":"rm_tileSliding","path":"rooms/rm_tileSliding/rm_tileSliding.yy",},"order":7,},
+    {"id":{"name":"rm_kakuro","path":"rooms/rm_kakuro/rm_kakuro.yy",},"order":5,},
+    {"id":{"name":"rm_buildingStuff","path":"rooms/rm_buildingStuff/rm_buildingStuff.yy",},"order":3,},
+    {"id":{"name":"rm_popQuiz","path":"rooms/rm_popQuiz/rm_popQuiz.yy",},"order":1,},
+    {"id":{"name":"rm_sokoban","path":"rooms/rm_sokoban/rm_sokoban.yy",},"order":2,},
+    {"id":{"name":"rm_vinesZiplines","path":"rooms/rm_vinesZiplines/rm_vinesZiplines.yy",},"order":4,},
+    {"id":{"name":"rm_sorting","path":"rooms/rm_sorting/rm_sorting.yy",},"order":6,},
+    {"id":{"name":"rm_maze","path":"rooms/rm_maze/rm_maze.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -18,6 +26,14 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_maze","path":"rooms/rm_maze/rm_maze.yy",},},
+    {"roomId":{"name":"rm_popQuiz","path":"rooms/rm_popQuiz/rm_popQuiz.yy",},},
+    {"roomId":{"name":"rm_sokoban","path":"rooms/rm_sokoban/rm_sokoban.yy",},},
+    {"roomId":{"name":"rm_buildingStuff","path":"rooms/rm_buildingStuff/rm_buildingStuff.yy",},},
+    {"roomId":{"name":"rm_vinesZiplines","path":"rooms/rm_vinesZiplines/rm_vinesZiplines.yy",},},
+    {"roomId":{"name":"rm_kakuro","path":"rooms/rm_kakuro/rm_kakuro.yy",},},
+    {"roomId":{"name":"rm_sorting","path":"rooms/rm_sorting/rm_sorting.yy",},},
+    {"roomId":{"name":"rm_tileSliding","path":"rooms/rm_tileSliding/rm_tileSliding.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
@@ -34,6 +50,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":1,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy","order":2,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy","order":8,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Puzzle Rooms","folderPath":"folders/Rooms/Puzzle Rooms.yy","order":1,},
   ],
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
