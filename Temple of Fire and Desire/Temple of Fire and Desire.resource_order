@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"rm_tileSliding","order":7,"path":"rooms/rm_tileSliding/rm_tileSliding.yy",},
+    {"name":"rm_kakuro","order":5,"path":"rooms/rm_kakuro/rm_kakuro.yy",},
+    {"name":"rm_buildingStuff","order":3,"path":"rooms/rm_buildingStuff/rm_buildingStuff.yy",},
+    {"name":"rm_popQuiz","order":1,"path":"rooms/rm_popQuiz/rm_popQuiz.yy",},
+    {"name":"rm_sokoban","order":2,"path":"rooms/rm_sokoban/rm_sokoban.yy",},
+    {"name":"obj_kakuro_button","order":1,"path":"objects/obj_kakuro_button/obj_kakuro_button.yy",},
+    {"name":"rm_vinesZiplines","order":4,"path":"rooms/rm_vinesZiplines/rm_vinesZiplines.yy",},
+    {"name":"rm_sorting","order":6,"path":"rooms/rm_sorting/rm_sorting.yy",},
+  ],
+}
