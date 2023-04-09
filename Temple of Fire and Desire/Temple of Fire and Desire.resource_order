@@ -1,7 +1,8 @@
 {
   "FolderOrderSettings": [
-    {"name":"tiles - 16","order":19,"path":"folders/Sprites/tiles - 16.yy",},
+    {"name":"mazePuzzle","order":25,"path":"folders/Objects/mazePuzzle.yy",},
     {"name":"tilePuzzle","order":22,"path":"folders/Objects/tilePuzzle.yy",},
+    {"name":"tilePuzzle","order":30,"path":"folders/Sprites/tilePuzzle.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"rm_tileSliding","order":7,"path":"rooms/rm_tileSliding/rm_tileSliding.yy",},
@@ -21,7 +22,7 @@
     {"name":"spr_tile_10_16","order":1,"path":"sprites/spr_tile_10_16/spr_tile_10_16.yy",},
     {"name":"tile_temple2","order":2,"path":"tilesets/tile_temple2/tile_temple2.yy",},
     {"name":"spr_tile_6_16","order":11,"path":"sprites/spr_tile_6_16/spr_tile_6_16.yy",},
-    {"name":"obj_vacationer","order":19,"path":"objects/obj_vacationer/obj_vacationer.yy",},
+    {"name":"obj_player","order":19,"path":"objects/obj_player/obj_player.yy",},
     {"name":"obj_tile_7_16","order":13,"path":"objects/obj_tile_7_16/obj_tile_7_16.yy",},
     {"name":"spr_stairs","order":29,"path":"sprites/spr_stairs/spr_stairs.yy",},
     {"name":"spr_tile_7_16","order":12,"path":"sprites/spr_tile_7_16/spr_tile_7_16.yy",},
@@ -39,7 +40,8 @@
     {"name":"rm_popQuiz","order":1,"path":"rooms/rm_popQuiz/rm_popQuiz.yy",},
     {"name":"spr_tile_14_16","order":5,"path":"sprites/spr_tile_14_16/spr_tile_14_16.yy",},
     {"name":"downstairsRoomv1","order":3,"path":"rooms/downstairsRoomv1/downstairsRoomv1.yy",},
-    {"name":"spr_vacationer","order":20,"path":"sprites/spr_vacationer/spr_vacationer.yy",},
+    {"name":"spr_player","order":20,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"downstairsExtraRoom","order":4,"path":"rooms/downstairsExtraRoom/downstairsExtraRoom.yy",},
     {"name":"spr_tile_12_16","order":3,"path":"sprites/spr_tile_12_16/spr_tile_12_16.yy",},
     {"name":"tile_temple3","order":3,"path":"tilesets/tile_temple3/tile_temple3.yy",},
     {"name":"obj_tile_15_16","order":6,"path":"objects/obj_tile_15_16/obj_tile_15_16.yy",},
@@ -58,7 +60,8 @@
     {"name":"rm_sorting","order":6,"path":"rooms/rm_sorting/rm_sorting.yy",},
     {"name":"spr_tile_3_16","order":8,"path":"sprites/spr_tile_3_16/spr_tile_3_16.yy",},
     {"name":"obj_tile_9_16","order":12,"path":"objects/obj_tile_9_16/obj_tile_9_16.yy",},
+    {"name":"spr_mazeReset","order":31,"path":"sprites/spr_mazeReset/spr_mazeReset.yy",},
     {"name":"obj_tile_4_16","order":5,"path":"objects/obj_tile_4_16/obj_tile_4_16.yy",},
-    {"name":"spr_border","order":3,"path":"sprites/spr_border/spr_border.yy",},
+    {"name":"spr_border","order":1,"path":"sprites/spr_border/spr_border.yy",},
   ],
 }
