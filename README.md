@@ -2,8 +2,7 @@
 
 --- Connect 4 ---
 
-Members:
-
+Members: 
 - Producer: Kiran Muthuraman
 - Artist: Hallie Johnson
 - Programmer: Nick Kotsakis
