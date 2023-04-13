@@ -23,6 +23,7 @@
     {"name":"inst_7F83BC91","path":"rooms/rm_tileSliding/rm_tileSliding.yy",},
     {"name":"inst_6577A295","path":"rooms/rm_tileSliding/rm_tileSliding.yy",},
     {"name":"inst_31C7C10B","path":"rooms/rm_tileSliding/rm_tileSliding.yy",},
+    {"name":"inst_10A9AA52","path":"rooms/rm_tileSliding/rm_tileSliding.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -43,6 +44,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7F83BC91","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_tile_13_16","path":"objects/obj_tile_13_16/obj_tile_13_16.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":660.0,"y":690.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6577A295","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_tile_14_16","path":"objects/obj_tile_14_16/obj_tile_14_16.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":810.0,"y":690.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_31C7C10B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_tile_15_16","path":"objects/obj_tile_15_16/obj_tile_15_16.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":960.0,"y":690.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_10A9AA52","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"btn_temple","path":"objects/btn_temple/btn_temple.yy",},"properties":[],"rotation":0.0,"scaleX":9.0,"scaleY":1.0,"x":1300.0,"y":530.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

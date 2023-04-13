@@ -4,7 +4,6 @@
     {"name":"tiles - 16","order":11,"path":"folders/Sprites/tiles - 16.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"rm_final","order":1,"path":"rooms/rm_final/rm_final.yy",},
     {"name":"spr_finalDoor","order":1,"path":"sprites/spr_finalDoor/spr_finalDoor.yy",},
     {"name":"obj_vacationer","order":1,"path":"objects/obj_vacationer/obj_vacationer.yy",},
     {"name":"spr_floor","order":2,"path":"sprites/spr_floor/spr_floor.yy",},

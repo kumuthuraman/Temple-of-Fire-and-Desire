@@ -4,7 +4,7 @@
   "name": "operagx",
   "option_operagx_display_cursor": true,
   "option_operagx_editUrl": "",
-  "option_operagx_game_name": "Temple of Fire and Desire",
+  "option_operagx_game_name": "Playable",
   "option_operagx_guid": "",
   "option_operagx_internalShareUrl": "",
   "option_operagx_interpolate_pixels": true,
