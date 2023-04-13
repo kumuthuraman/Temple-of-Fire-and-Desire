@@ -27,5 +27,6 @@
     {"name":"rm_sorting","order":6,"path":"rooms/rm_sorting/rm_sorting.yy",},
     {"name":"toBeContinued","order":13,"path":"sprites/toBeContinued/toBeContinued.yy",},
     {"name":"btn_start","order":2,"path":"objects/btn_start/btn_start.yy",},
+    {"name":"obj_kakuro_button","order":1,"path":"objects/obj_kakuro_button/obj_kakuro_button.yy",},
   ],
 }
