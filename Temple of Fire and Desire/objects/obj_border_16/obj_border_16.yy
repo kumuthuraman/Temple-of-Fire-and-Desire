@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_border",
+  "name": "obj_border_16",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "tilePuzzle",
-    "path": "folders/Objects/tilePuzzle.yy",
+    "name": "tiles - 16",
+    "path": "folders/Objects/tilePuzzle/tiles - 16.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -31,8 +31,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "spr_border",
-    "path": "sprites/spr_border/spr_border.yy",
+    "name": "spr_border_16",
+    "path": "sprites/spr_border_16/spr_border_16.yy",
   },
   "spriteMaskId": null,
   "visible": true,

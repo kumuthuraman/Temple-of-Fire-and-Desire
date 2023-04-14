@@ -15,7 +15,5 @@ if(obj_tile_1_16.x == 660 and obj_tile_1_16.y == 240 and
 	obj_tile_13_16.x == 660 and obj_tile_13_16.y == 690 and
 	obj_tile_14_16.x == 810 and obj_tile_14_16.y == 690 and
 	obj_tile_15_16.x == 960 and obj_tile_15_16.y == 690){
-		won = true;
-		draw_set_color(c_black);
-		draw_text(660, 110, "You won!");
+		room_goto_next()
 }
