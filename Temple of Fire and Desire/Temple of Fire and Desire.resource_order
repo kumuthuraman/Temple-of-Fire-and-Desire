@@ -5,6 +5,8 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_finalDoor","order":1,"path":"sprites/spr_finalDoor/spr_finalDoor.yy",},
+    {"name":"obj_vinesZipline","order":13,"path":"objects/obj_vinesZipline/obj_vinesZipline.yy",},
+    {"name":"Sprite30","order":15,"path":"sprites/Sprite30/Sprite30.yy",},
     {"name":"obj_vacationer","order":1,"path":"objects/obj_vacationer/obj_vacationer.yy",},
     {"name":"spr_floor","order":2,"path":"sprites/spr_floor/spr_floor.yy",},
     {"name":"spr_temple","order":3,"path":"sprites/spr_temple/spr_temple.yy",},
@@ -23,10 +25,8 @@
     {"name":"obj_kakuro_button","order":6,"path":"objects/obj_kakuro_button/obj_kakuro_button.yy",},
     {"name":"spr_line","order":10,"path":"sprites/spr_line/spr_line.yy",},
     {"name":"obj_kakuro","order":7,"path":"objects/obj_kakuro/obj_kakuro.yy",},
-    {"name":"obj_vineZipline","order":12,"path":"objects/obj_vineZipline/obj_vineZipline.yy",},
-    {"name":"obj_correctPath","order":11,"path":"objects/obj_correctPath/obj_correctPath.yy",},
     {"name":"directional","order":13,"path":"sprites/directional/directional.yy",},
-    {"name":"player","order":14,"path":"sprites/player/player.yy",},
+    {"name":"_spr","order":14,"path":"sprites/_spr/_spr.yy",},
     {"name":"obj_player","order":8,"path":"objects/obj_player/obj_player.yy",},
   ],
 }

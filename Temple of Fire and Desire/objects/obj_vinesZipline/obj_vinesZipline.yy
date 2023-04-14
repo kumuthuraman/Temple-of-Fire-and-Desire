@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_correctPath",
+  "name": "obj_vinesZipline",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
