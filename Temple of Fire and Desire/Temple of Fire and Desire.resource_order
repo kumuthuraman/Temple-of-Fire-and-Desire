@@ -1,16 +1,19 @@
 {
   "FolderOrderSettings": [
     {"name":"tilePuzzle","order":9,"path":"folders/Objects/tilePuzzle.yy",},
+    {"name":"backgrounds","order":16,"path":"folders/Sprites/backgrounds.yy",},
     {"name":"tiles - 16","order":11,"path":"folders/Sprites/tiles - 16.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"bkg_spr_bush","order":2,"path":"sprites/bkg_spr_bush/bkg_spr_bush.yy",},
     {"name":"spr_finalDoor","order":1,"path":"sprites/spr_finalDoor/spr_finalDoor.yy",},
     {"name":"obj_vinesZipline","order":13,"path":"objects/obj_vinesZipline/obj_vinesZipline.yy",},
+    {"name":"rm_temple","order":1,"path":"rooms/rm_temple/rm_temple.yy",},
     {"name":"Sprite30","order":15,"path":"sprites/Sprite30/Sprite30.yy",},
-    {"name":"obj_vacationer","order":1,"path":"objects/obj_vacationer/obj_vacationer.yy",},
     {"name":"spr_floor","order":2,"path":"sprites/spr_floor/spr_floor.yy",},
     {"name":"spr_temple","order":3,"path":"sprites/spr_temple/spr_temple.yy",},
     {"name":"obj_floor","order":2,"path":"objects/obj_floor/obj_floor.yy",},
+    {"name":"bkg_spr_leaves","order":3,"path":"sprites/bkg_spr_leaves/bkg_spr_leaves.yy",},
     {"name":"obj_stairDoor","order":3,"path":"objects/obj_stairDoor/obj_stairDoor.yy",},
     {"name":"spr_puzzleDoor","order":4,"path":"sprites/spr_puzzleDoor/spr_puzzleDoor.yy",},
     {"name":"spr_stairDoor","order":5,"path":"sprites/spr_stairDoor/spr_stairDoor.yy",},
@@ -18,7 +21,9 @@
     {"name":"spr_vacationer","order":7,"path":"sprites/spr_vacationer/spr_vacationer.yy",},
     {"name":"obj_wall","order":4,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"spr_wall","order":8,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"bkg_spr_temple","order":1,"path":"sprites/bkg_spr_temple/bkg_spr_temple.yy",},
     {"name":"Sprite26","order":12,"path":"sprites/Sprite26/Sprite26.yy",},
+    {"name":"rm_zipline2","order":1,"path":"rooms/rm_zipline2/rm_zipline2.yy",},
     {"name":"obj_puzzleDoor","order":5,"path":"objects/obj_puzzleDoor/obj_puzzleDoor.yy",},
     {"name":"btn_temple","order":10,"path":"objects/btn_temple/btn_temple.yy",},
     {"name":"spr_border","order":9,"path":"sprites/spr_border/spr_border.yy",},
@@ -27,6 +32,6 @@
     {"name":"obj_kakuro","order":7,"path":"objects/obj_kakuro/obj_kakuro.yy",},
     {"name":"directional","order":13,"path":"sprites/directional/directional.yy",},
     {"name":"_spr","order":14,"path":"sprites/_spr/_spr.yy",},
-    {"name":"obj_player","order":8,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_vacationer","order":8,"path":"objects/obj_vacationer/obj_vacationer.yy",},
   ],
 }

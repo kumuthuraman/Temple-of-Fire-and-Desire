@@ -4,7 +4,7 @@
 moveSpeed = 4;
 
 // Player interaction and movement when not in vines/zipline room
-if room != rm_vinesZiplines{
+if room != rm_zipline and room != rm_zipline2{
 	// Move the player right
 	if (keyboard_check(vk_right)) {
 	    x += moveSpeed;
@@ -27,7 +27,7 @@ if room != rm_vinesZiplines{
 }
 
 // Player interaction and movement when player enters the vines/zipline room
-if room == rm_vinesZiplines {
+if room == rm_zipline or room == rm_zipline2 {
 	// Move the player right
 	if (keyboard_check(vk_right)) {
 		if (place_meeting(x, y, obj_vinesZipline)) {
