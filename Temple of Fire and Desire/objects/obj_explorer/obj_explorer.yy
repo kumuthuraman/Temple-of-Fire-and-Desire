@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_vacationer",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "name": "obj_explorer",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_vacationer",
-    "path": "sprites/spr_vacationer/spr_vacationer.yy",
+    "name": "spr_explorer",
+    "path": "sprites/spr_explorer/spr_explorer.yy",
   },
   "spriteMaskId": null,
   "visible": true,
