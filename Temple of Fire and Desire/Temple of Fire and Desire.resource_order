@@ -1,6 +1,15 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"rm_main16","order":1,"path":"rooms/rm_main16/rm_main16.yy",},
+    {"name":"bkg_spr_doorMaze","order":4,"path":"sprites/bkg_spr_doorMaze/bkg_spr_doorMaze.yy",},
+    {"name":"bkg_spr_templeMainLevel","order":1,"path":"sprites/bkg_spr_templeMainLevel/bkg_spr_templeMainLevel.yy",},
+    {"name":"bkg_spr_doorLines","order":5,"path":"sprites/bkg_spr_doorLines/bkg_spr_doorLines.yy",},
+    {"name":"bkg_spr_doorKakuro","order":3,"path":"sprites/bkg_spr_doorKakuro/bkg_spr_doorKakuro.yy",},
+    {"name":"bkg_spr_doorIncomplete","order":2,"path":"sprites/bkg_spr_doorIncomplete/bkg_spr_doorIncomplete.yy",},
+    {"name":"bkg_spr_doorTiles","order":6,"path":"sprites/bkg_spr_doorTiles/bkg_spr_doorTiles.yy",},
+    {"name":"obj_door","order":1,"path":"objects/obj_door/obj_door.yy",},
     {"name":"spr_vacationer","order":1,"path":"sprites/spr_vacationer/spr_vacationer.yy",},
+    {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
   ],
 }
