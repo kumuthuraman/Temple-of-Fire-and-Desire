@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "tiles - 16",
-    "path": "folders/Sprites/tiles - 16.yy",
+    "path": "folders/Sprites/tilePuzzle/tiles - 16.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
