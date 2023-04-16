@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_mazeReset",
+  "name": "obj_vacationer",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "mazePuzzle",
-    "path": "folders/Objects/mazePuzzle.yy",
+    "name": "characters",
+    "path": "folders/Objects/characters.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_mazeReset",
-    "path": "sprites/spr_mazeReset/spr_mazeReset.yy",
+    "name": "spr_vacationer",
+    "path": "sprites/spr_vacationer/spr_vacationer.yy",
   },
   "spriteMaskId": null,
   "visible": true,
