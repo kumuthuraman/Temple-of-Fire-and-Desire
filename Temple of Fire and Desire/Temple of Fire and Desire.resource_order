@@ -1,10 +1,10 @@
 {
   "FolderOrderSettings": [
     {"name":"characters","order":7,"path":"folders/Objects/characters.yy",},
+    {"name":"kakuroPuzzle","order":13,"path":"folders/Objects/kakuroPuzzle.yy",},
+    {"name":"linesPuzzle","order":12,"path":"folders/Objects/linesPuzzle.yy",},
     {"name":"mazePuzzle","order":8,"path":"folders/Objects/mazePuzzle.yy",},
     {"name":"tilePuzzle","order":9,"path":"folders/Objects/tilePuzzle.yy",},
-    {"name":"linesPuzzle","order":12,"path":"folders/Objects/linesPuzzle.yy",},
-    {"name":"kakuroPuzzle","order":13,"path":"folders/Objects/kakuroPuzzle.yy",},
     {"name":"linesPuzzle","order":1,"path":"folders/Sprites/linesPuzzle.yy",},
     {"name":"mazePuzzle","order":2,"path":"folders/Sprites/mazePuzzle.yy",},
   ],
@@ -12,6 +12,7 @@
     {"name":"obj_finalDoor","order":6,"path":"objects/obj_finalDoor/obj_finalDoor.yy",},
     {"name":"rm_main16","order":1,"path":"rooms/rm_main16/rm_main16.yy",},
     {"name":"Sprite30","order":1,"path":"sprites/Sprite30/Sprite30.yy",},
+    {"name":"tiles","order":1,"path":"tilesets/tiles/tiles.yy",},
     {"name":"bkg_spr_doorMaze","order":4,"path":"sprites/bkg_spr_doorMaze/bkg_spr_doorMaze.yy",},
     {"name":"bkg_spr_templeMainLevel","order":1,"path":"sprites/bkg_spr_templeMainLevel/bkg_spr_templeMainLevel.yy",},
     {"name":"obj_floor","order":5,"path":"objects/obj_floor/obj_floor.yy",},
@@ -25,6 +26,7 @@
     {"name":"obj_wall","order":3,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"rm_ground","order":2,"path":"rooms/rm_ground/rm_ground.yy",},
     {"name":"spr_vacationer","order":1,"path":"sprites/spr_vacationer/spr_vacationer.yy",},
+    {"name":"spr_tiles","order":3,"path":"sprites/spr_tiles/spr_tiles.yy",},
     {"name":"btn_temple","order":2,"path":"objects/btn_temple/btn_temple.yy",},
     {"name":"obj_kakuro_button","order":1,"path":"objects/obj_kakuro_button/obj_kakuro_button.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
