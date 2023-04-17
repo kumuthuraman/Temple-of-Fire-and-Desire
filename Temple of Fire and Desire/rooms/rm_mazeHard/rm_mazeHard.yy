@@ -72,7 +72,6 @@
     {"name":"inst_353C02DD_1","path":"rooms/rm_mazeHard/rm_mazeHard.yy",},
     {"name":"inst_630A4363_1","path":"rooms/rm_mazeHard/rm_mazeHard.yy",},
     {"name":"inst_523B33DE_1","path":"rooms/rm_mazeHard/rm_mazeHard.yy",},
-    {"name":"inst_151722FC_1","path":"rooms/rm_mazeHard/rm_mazeHard.yy",},
     {"name":"inst_17D11E66_1","path":"rooms/rm_mazeHard/rm_mazeHard.yy",},
     {"name":"inst_7E5A7723_1","path":"rooms/rm_mazeHard/rm_mazeHard.yy",},
     {"name":"inst_7250741F_1","path":"rooms/rm_mazeHard/rm_mazeHard.yy",},
@@ -142,7 +141,6 @@
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_3","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_151722FC_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_puzzleDoor","path":"objects/obj_puzzleDoor/obj_puzzleDoor.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":1.0,"x":32.0,"y":480.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_17D11E66_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":null,"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":384.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7E5A7723_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_mazeReset","path":"objects/obj_mazeReset/obj_mazeReset.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1536.0,"y":96.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},

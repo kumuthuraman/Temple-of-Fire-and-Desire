@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-draw_self();
-draw_text(x, y, "Door");
+
+layer_sequence_create("Transition",1920,1080,sq_fadeOut);

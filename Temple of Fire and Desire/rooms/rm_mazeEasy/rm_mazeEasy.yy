@@ -104,14 +104,12 @@
     {"name":"inst_379C2EC6","path":"rooms/rm_mazeEasy/rm_mazeEasy.yy",},
     {"name":"inst_73F09FDF","path":"rooms/rm_mazeEasy/rm_mazeEasy.yy",},
     {"name":"inst_523B33DE","path":"rooms/rm_mazeEasy/rm_mazeEasy.yy",},
-    {"name":"inst_151722FC","path":"rooms/rm_mazeEasy/rm_mazeEasy.yy",},
     {"name":"inst_17D11E66","path":"rooms/rm_mazeEasy/rm_mazeEasy.yy",},
     {"name":"inst_7E5A7723","path":"rooms/rm_mazeEasy/rm_mazeEasy.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_3","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_151722FC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_puzzleDoor","path":"objects/obj_puzzleDoor/obj_puzzleDoor.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":1.0,"x":32.0,"y":480.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_17D11E66","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":null,"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":384.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7E5A7723","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_mazeReset","path":"objects/obj_mazeReset/obj_mazeReset.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1856.0,"y":384.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},

@@ -48,8 +48,8 @@
   },
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "linesPuzzle",
+    "path": "folders/Sprites/linesPuzzle.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
