@@ -4,5 +4,6 @@ if(answers[0,0] + answers[1,0] == top[0] &&
    answers[0,1] + answers[1,1] == top[1] &&
    answers[0,0] + answers[0,1] == side[0] &&
    answers[1,0] + answers[1,1] == side[1]){
-	   //exit condition
+	   room_goto(entranceRoom)
 }
+

@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "kakuro",
+    "path": "folders/Objects/kakuro.yy",
   },
   "parentObjectId": null,
   "persistent": false,
