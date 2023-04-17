@@ -11,10 +11,12 @@
   "ResourceOrderSettings": [
     {"name":"obj_finalDoor","order":6,"path":"objects/obj_finalDoor/obj_finalDoor.yy",},
     {"name":"rm_main16","order":1,"path":"rooms/rm_main16/rm_main16.yy",},
+    {"name":"bkg_spr_templeLayer4","order":8,"path":"sprites/bkg_spr_templeLayer4/bkg_spr_templeLayer4.yy",},
     {"name":"Sprite30","order":1,"path":"sprites/Sprite30/Sprite30.yy",},
     {"name":"tiles","order":1,"path":"tilesets/tiles/tiles.yy",},
     {"name":"bkg_spr_doorMaze","order":4,"path":"sprites/bkg_spr_doorMaze/bkg_spr_doorMaze.yy",},
-    {"name":"bkg_spr_templeMainLevel","order":1,"path":"sprites/bkg_spr_templeMainLevel/bkg_spr_templeMainLevel.yy",},
+    {"name":"bkg_spr_templeLayer5","order":10,"path":"sprites/bkg_spr_templeLayer5/bkg_spr_templeLayer5.yy",},
+    {"name":"bkg_spr_templeLayer1","order":1,"path":"sprites/bkg_spr_templeLayer1/bkg_spr_templeLayer1.yy",},
     {"name":"obj_floor","order":5,"path":"objects/obj_floor/obj_floor.yy",},
     {"name":"bkg_spr_doorLines","order":5,"path":"sprites/bkg_spr_doorLines/bkg_spr_doorLines.yy",},
     {"name":"obj_stairDoor","order":4,"path":"objects/obj_stairDoor/obj_stairDoor.yy",},
@@ -24,6 +26,7 @@
     {"name":"bkg_spr_doorTiles","order":6,"path":"sprites/bkg_spr_doorTiles/bkg_spr_doorTiles.yy",},
     {"name":"obj_door","order":10,"path":"objects/obj_door/obj_door.yy",},
     {"name":"obj_wall","order":3,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"bkg_spr_templeLayer2","order":7,"path":"sprites/bkg_spr_templeLayer2/bkg_spr_templeLayer2.yy",},
     {"name":"rm_ground","order":2,"path":"rooms/rm_ground/rm_ground.yy",},
     {"name":"spr_vacationer","order":1,"path":"sprites/spr_vacationer/spr_vacationer.yy",},
     {"name":"spr_tiles","order":3,"path":"sprites/spr_tiles/spr_tiles.yy",},
@@ -31,5 +34,6 @@
     {"name":"obj_kakuro_button","order":1,"path":"objects/obj_kakuro_button/obj_kakuro_button.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"obj_block","order":11,"path":"objects/obj_block/obj_block.yy",},
+    {"name":"bkg_spr_templeLayer3","order":9,"path":"sprites/bkg_spr_templeLayer3/bkg_spr_templeLayer3.yy",},
   ],
 }
