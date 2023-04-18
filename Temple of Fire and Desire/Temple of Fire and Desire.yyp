@@ -58,6 +58,7 @@
     {"id":{"name":"spr_tile_2_16","path":"sprites/spr_tile_2_16/spr_tile_2_16.yy",},},
     {"id":{"name":"spr_templePillar","path":"sprites/spr_templePillar/spr_templePillar.yy",},},
     {"id":{"name":"spr_tile_5_16","path":"sprites/spr_tile_5_16/spr_tile_5_16.yy",},},
+    {"id":{"name":"bkg_spr_bigDoor","path":"sprites/bkg_spr_bigDoor/bkg_spr_bigDoor.yy",},},
     {"id":{"name":"spr_finalDoor","path":"sprites/spr_finalDoor/spr_finalDoor.yy",},},
     {"id":{"name":"spr_tile_9_16","path":"sprites/spr_tile_9_16/spr_tile_9_16.yy",},},
     {"id":{"name":"spr_tile_1_9","path":"sprites/spr_tile_1_9/spr_tile_1_9.yy",},},

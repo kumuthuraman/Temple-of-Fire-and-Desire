@@ -10,6 +10,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_finalDoor","order":6,"path":"objects/obj_finalDoor/obj_finalDoor.yy",},
+    {"name":"bkg_spr_bigDoor","order":11,"path":"sprites/bkg_spr_bigDoor/bkg_spr_bigDoor.yy",},
     {"name":"rm_main16","order":1,"path":"rooms/rm_main16/rm_main16.yy",},
     {"name":"bkg_spr_templeLayer4","order":8,"path":"sprites/bkg_spr_templeLayer4/bkg_spr_templeLayer4.yy",},
     {"name":"Sprite30","order":1,"path":"sprites/Sprite30/Sprite30.yy",},
