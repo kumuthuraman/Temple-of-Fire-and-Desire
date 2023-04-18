@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_kakuro",
+  "name": "obj_kakuroHard",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
@@ -13,7 +13,10 @@
     "name": "kakuro",
     "path": "folders/Objects/kakuro.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_kakuro",
+    "path": "objects/obj_kakuro/obj_kakuro.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
