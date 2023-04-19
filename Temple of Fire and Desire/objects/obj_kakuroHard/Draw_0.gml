@@ -11,7 +11,6 @@ if(answers[0,1] + answers[1,1] + answers[2,1] == top[1]) then draw_set_color(c_g
 draw_text(1121,287, top[1])
 draw_set_color(c_white)
 
-
 if(answers[0,2] + answers[1,2] + answers[2,2] == top[2]) then draw_set_color(c_green)
 draw_text(1312,287, top[2])
 draw_set_color(c_white)

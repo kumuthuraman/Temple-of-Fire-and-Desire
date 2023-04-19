@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_kakuro_puzzle",
+  "name": "obj_puzzle",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -24,7 +24,7 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
     "name": "spr_puzzleDoor",
     "path": "sprites/spr_puzzleDoor/spr_puzzleDoor.yy",
