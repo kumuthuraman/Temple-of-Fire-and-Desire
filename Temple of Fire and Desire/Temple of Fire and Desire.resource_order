@@ -9,6 +9,7 @@
     {"name":"mazePuzzle","order":2,"path":"folders/Sprites/mazePuzzle.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_tiles56","order":4,"path":"sprites/spr_tiles56/spr_tiles56.yy",},
     {"name":"obj_finalDoor","order":6,"path":"objects/obj_finalDoor/obj_finalDoor.yy",},
     {"name":"rm_main16","order":1,"path":"rooms/rm_main16/rm_main16.yy",},
     {"name":"Sprite30","order":1,"path":"sprites/Sprite30/Sprite30.yy",},
@@ -28,6 +29,7 @@
     {"name":"spr_vacationer","order":1,"path":"sprites/spr_vacationer/spr_vacationer.yy",},
     {"name":"spr_tiles","order":3,"path":"sprites/spr_tiles/spr_tiles.yy",},
     {"name":"btn_temple","order":2,"path":"objects/btn_temple/btn_temple.yy",},
+    {"name":"TileSet5","order":2,"path":"tilesets/TileSet5/TileSet5.yy",},
     {"name":"obj_kakuro_button","order":1,"path":"objects/obj_kakuro_button/obj_kakuro_button.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"obj_block","order":11,"path":"objects/obj_block/obj_block.yy",},
