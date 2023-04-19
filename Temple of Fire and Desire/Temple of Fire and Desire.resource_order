@@ -2,7 +2,7 @@
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"bkg_spr_templeLowLayer1","order":1,"path":"sprites/bkg_spr_templeLowLayer1/bkg_spr_templeLowLayer1.yy",},
-    {"name":"rm_ground15","order":1,"path":"rooms/rm_ground15/rm_ground15.yy",},
+    {"name":"obj_spawnPlayer","order":1,"path":"objects/obj_spawnPlayer/obj_spawnPlayer.yy",},
     {"name":"bkg_spr_templeLowLayer2","order":2,"path":"sprites/bkg_spr_templeLowLayer2/bkg_spr_templeLowLayer2.yy",},
   ],
 }

@@ -1,8 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_stairDoor",
-  "eventList": [],
+  "name": "obj_spawnPlayer",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -25,10 +27,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_bkg",
-    "path": "sprites/spr_bkg/spr_bkg.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
