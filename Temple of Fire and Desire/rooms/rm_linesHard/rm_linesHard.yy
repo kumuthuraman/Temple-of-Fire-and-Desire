@@ -7,7 +7,6 @@
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_2B6B6A63_1","path":"rooms/rm_linesHard/rm_linesHard.yy",},
     {"name":"inst_7D37F9DB_1","path":"rooms/rm_linesHard/rm_linesHard.yy",},
     {"name":"inst_1709A363_1","path":"rooms/rm_linesHard/rm_linesHard.yy",},
     {"name":"inst_52A53A2B_1","path":"rooms/rm_linesHard/rm_linesHard.yy",},
@@ -59,12 +58,13 @@
     {"name":"inst_5FF0BD84","path":"rooms/rm_linesHard/rm_linesHard.yy",},
     {"name":"inst_620C53AE","path":"rooms/rm_linesHard/rm_linesHard.yy",},
     {"name":"inst_4FE58ADE","path":"rooms/rm_linesHard/rm_linesHard.yy",},
+    {"name":"inst_299411BB","path":"rooms/rm_linesHard/rm_linesHard.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2B6B6A63_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_vacationer","path":"objects/obj_vacationer/obj_vacationer.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":992.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7D37F9DB_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"btn_temple","path":"objects/btn_temple/btn_temple.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":0.5,"x":1760.0,"y":32.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_299411BB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_spawnPlayer","path":"objects/obj_spawnPlayer/obj_spawnPlayer.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":88.0,"y":992.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"vines_zipline","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1709A363_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_vinesZipline","path":"objects/obj_vinesZipline/obj_vinesZipline.yy",},"properties":[],"rotation":90.0,"scaleX":3.0,"scaleY":0.5,"x":96.0,"y":544.0,},

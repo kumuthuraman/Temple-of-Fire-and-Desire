@@ -124,7 +124,6 @@
     {"id":{"name":"sq_fadeOut","path":"sequences/sq_fadeOut/sq_fadeOut.yy",},},
     {"id":{"name":"spr_bkg","path":"sprites/spr_bkg/spr_bkg.yy",},},
     {"id":{"name":"spr_eIdleSide","path":"sprites/spr_eIdleSide/spr_eIdleSide.yy",},},
-    {"id":{"name":"spr_stairDoor","path":"sprites/spr_stairDoor/spr_stairDoor.yy",},},
     {"id":{"name":"spr_templeDoor","path":"sprites/spr_templeDoor/spr_templeDoor.yy",},},
     {"id":{"name":"spr_tile_14_16","path":"sprites/spr_tile_14_16/spr_tile_14_16.yy",},},
     {"id":{"name":"bkg_spr_doorIncomplete","path":"sprites/bkg_spr_doorIncomplete/bkg_spr_doorIncomplete.yy",},},
