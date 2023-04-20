@@ -11,6 +11,7 @@ if room != rm_linesEasy and room != rm_linesHard {
 	switch(facing){
 		case "down":	
 			sprite_index = idle_forward
+			if (place_meeting(x, y+1, obj_puzzle) and keyboard_check(ord("E"))) then room_goto(rm_kakuroEasy)
 		break;
 		
 		case "up":
