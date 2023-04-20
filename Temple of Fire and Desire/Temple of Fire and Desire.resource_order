@@ -1,8 +1,25 @@
 {
-  "FolderOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"archeologist","order":1,"path":"folders/Sprites/characters/archeologist.yy",},
+    {"name":"explorer","order":2,"path":"folders/Sprites/characters/explorer.yy",},
+    {"name":"student","order":3,"path":"folders/Sprites/characters/student.yy",},
+    {"name":"vacationer","order":4,"path":"folders/Sprites/characters/vacationer.yy",},
+  ],
   "ResourceOrderSettings": [
+    {"name":"spr_eIdleBack","order":4,"path":"sprites/spr_eIdleBack/spr_eIdleBack.yy",},
+    {"name":"spr_e","order":5,"path":"sprites/spr_e/spr_e.yy",},
     {"name":"bkg_spr_templeLowLayer1","order":1,"path":"sprites/bkg_spr_templeLowLayer1/bkg_spr_templeLowLayer1.yy",},
     {"name":"obj_spawnPlayer","order":1,"path":"objects/obj_spawnPlayer/obj_spawnPlayer.yy",},
+    {"name":"spr_vWalkBackward","order":3,"path":"sprites/spr_vWalkBackward/spr_vWalkBackward.yy",},
+    {"name":"spr_eIdleSide","order":3,"path":"sprites/spr_eIdleSide/spr_eIdleSide.yy",},
+    {"name":"rm_ground15","order":1,"path":"rooms/rm_ground15/rm_ground15.yy",},
     {"name":"bkg_spr_templeLowLayer2","order":2,"path":"sprites/bkg_spr_templeLowLayer2/bkg_spr_templeLowLayer2.yy",},
+    {"name":"spr_vIdleBack","order":5,"path":"sprites/spr_vIdleBack/spr_vIdleBack.yy",},
+    {"name":"spr_vWalkForward","order":1,"path":"sprites/spr_vWalkForward/spr_vWalkForward.yy",},
+    {"name":"spr_vIdleSide","order":4,"path":"sprites/spr_vIdleSide/spr_vIdleSide.yy",},
+    {"name":"spr_eIdleForward","order":2,"path":"sprites/spr_eIdleForward/spr_eIdleForward.yy",},
+    {"name":"spr_vIdleForward","order":2,"path":"sprites/spr_vIdleForward/spr_vIdleForward.yy",},
+    {"name":"spr_vWalkSide","order":6,"path":"sprites/spr_vWalkSide/spr_vWalkSide.yy",},
+    {"name":"spr_eWalkSide","order":1,"path":"sprites/spr_eWalkSide/spr_eWalkSide.yy",},
   ],
 }

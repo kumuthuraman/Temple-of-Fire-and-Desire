@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "characters",
-    "path": "folders/Sprites/characters.yy",
+    "name": "archeologist",
+    "path": "folders/Sprites/characters/archeologist.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
