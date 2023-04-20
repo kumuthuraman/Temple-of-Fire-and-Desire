@@ -10,28 +10,28 @@ if room != rm_linesEasy and room != rm_linesHard {
 	
 	switch(facing){
 		case "down":	
-			sprite_index = spr_vIdleForward
+			sprite_index = idle_forward
 		break;
 		
 		case "up":
-			sprite_index = spr_vIdleBack
+			sprite_index = idle_back
 			if (place_meeting(x, y-1, obj_puzzle) and keyboard_check(ord("E"))) then room_goto(rm_kakuroEasy)
 		break;
 		
 		case "left":
-			sprite_index = spr_vIdleSide
+			sprite_index = idle_side
 		break;
 		
 		case "right":
 			image_xscale = -1
-			sprite_index = spr_vIdleSide
+			sprite_index = idle_side
 		break;
 	}
 	
 	
 	if (keyboard_check(vk_right) || keyboard_check(ord("D"))) {
 	    x += moveSpeed;
-		sprite_index = spr_vWalkSide
+		sprite_index = walk_side
 		image_xscale = -1
 		facing = "right"
 	}
@@ -39,14 +39,14 @@ if room != rm_linesEasy and room != rm_linesHard {
 	// Move the player left
 	if (keyboard_check(vk_left) || keyboard_check(ord("A"))) {
 	    x -= moveSpeed;
-		sprite_index = spr_vWalkSide
+		sprite_index = walk_side
 		facing = "left"
 	}
 
 	// Move the player up
 	if (keyboard_check(vk_up) || keyboard_check(ord("W"))) {
 	    y -= moveSpeed;
-		sprite_index = spr_vWalkBackward
+		sprite_index = walk_back
 		facing = "up"
 		
 	}
@@ -54,7 +54,7 @@ if room != rm_linesEasy and room != rm_linesHard {
 	// Move the player down
 	if (keyboard_check(vk_down) || keyboard_check(ord("S"))) {
 		y += moveSpeed;
-		sprite_index = spr_vWalkForward
+		sprite_index = walk_forward
 		facing = "down"
 	}
 	
