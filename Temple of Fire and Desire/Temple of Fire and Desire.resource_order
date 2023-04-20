@@ -6,6 +6,7 @@
     {"name":"vacationer","order":4,"path":"folders/Sprites/characters/vacationer.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_puzzleComplete","order":2,"path":"objects/obj_puzzleComplete/obj_puzzleComplete.yy",},
     {"name":"spr_eIdleBack","order":4,"path":"sprites/spr_eIdleBack/spr_eIdleBack.yy",},
     {"name":"spr_eWalkBackward","order":5,"path":"sprites/spr_eWalkBackward/spr_eWalkBackward.yy",},
     {"name":"bkg_spr_templeLowLayer1","order":1,"path":"sprites/bkg_spr_templeLowLayer1/bkg_spr_templeLowLayer1.yy",},

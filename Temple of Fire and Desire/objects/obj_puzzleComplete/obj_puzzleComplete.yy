@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_mazeReset",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","eventNum":0,"eventType":4,"isDnD":false,},
-  ],
+  "name": "obj_puzzleComplete",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "mazePuzzle",
-    "path": "folders/Objects/mazePuzzle.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -27,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_mazeReset",
-    "path": "sprites/spr_mazeReset/spr_mazeReset.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
