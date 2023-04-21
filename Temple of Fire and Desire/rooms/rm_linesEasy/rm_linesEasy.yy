@@ -61,6 +61,7 @@
     {"name":"inst_34710954","path":"rooms/rm_linesEasy/rm_linesEasy.yy",},
     {"name":"inst_77B9581","path":"rooms/rm_linesEasy/rm_linesEasy.yy",},
     {"name":"inst_53302EE9","path":"rooms/rm_linesEasy/rm_linesEasy.yy",},
+    {"name":"inst_662CF1E","path":"rooms/rm_linesEasy/rm_linesEasy.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -69,6 +70,7 @@
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7D37F9DB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"btn_temple","path":"objects/btn_temple/btn_temple.yy",},"properties":[],"rotation":0.0,"scaleX":3.0,"scaleY":1.0,"x":1632.0,"y":96.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_662CF1E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_puzzleComplete","path":"objects/obj_puzzleComplete/obj_puzzleComplete.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":1.0,"x":1696.0,"y":128.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"vines_zipline2","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_64F3F567","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_vinesZipline","path":"objects/obj_vinesZipline/obj_vinesZipline.yy",},"properties":[],"rotation":0.0,"scaleX":3.0,"scaleY":0.5,"x":288.0,"y":928.0,},
