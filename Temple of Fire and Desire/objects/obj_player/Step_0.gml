@@ -114,7 +114,7 @@ if room == rm_linesEasy or room == rm_linesHard {
 		facing = "down"
 	}
 		// Player interacts with object
-		if (keyboard_check_pressed(ord("E")) || keyboard_check(ord("Z"))) {
+		if (keyboard_check_pressed(ord("E")) || keyboard_check_pressed(ord("Z"))) {
 			with (instance_nearest(x, y, obj_vinesZipline)) {
 				image_angle += 90;
 			}

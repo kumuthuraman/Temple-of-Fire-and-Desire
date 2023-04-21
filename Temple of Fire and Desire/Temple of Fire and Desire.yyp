@@ -120,7 +120,6 @@
     {"id":{"name":"spr_sIdleForward","path":"sprites/spr_sIdleForward/spr_sIdleForward.yy",},},
     {"id":{"name":"bkg_spr_doorLines","path":"sprites/bkg_spr_doorLines/bkg_spr_doorLines.yy",},},
     {"id":{"name":"spr_vWalkBackward","path":"sprites/spr_vWalkBackward/spr_vWalkBackward.yy",},},
-    {"id":{"name":"obj_stairDoor","path":"objects/obj_stairDoor/obj_stairDoor.yy",},},
     {"id":{"name":"spr_tile_4_9","path":"sprites/spr_tile_4_9/spr_tile_4_9.yy",},},
     {"id":{"name":"bkg_spr_doorKakuro","path":"sprites/bkg_spr_doorKakuro/bkg_spr_doorKakuro.yy",},},
     {"id":{"name":"spr_puzzleDoor","path":"sprites/spr_puzzleDoor/spr_puzzleDoor.yy",},},
