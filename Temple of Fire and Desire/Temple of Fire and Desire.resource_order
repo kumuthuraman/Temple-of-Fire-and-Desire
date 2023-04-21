@@ -59,6 +59,7 @@
     {"name":"spr_tiles","order":3,"path":"sprites/spr_tiles/spr_tiles.yy",},
     {"name":"spr_sWalkForward","order":5,"path":"sprites/spr_sWalkForward/spr_sWalkForward.yy",},
     {"name":"spr_vIdleForward","order":2,"path":"sprites/spr_vIdleForward/spr_vIdleForward.yy",},
+    {"name":"obj_riddle","order":5,"path":"objects/obj_riddle/obj_riddle.yy",},
     {"name":"spr_sDialogue","order":25,"path":"sprites/spr_sDialogue/spr_sDialogue.yy",},
     {"name":"spr_complete","order":19,"path":"sprites/spr_complete/spr_complete.yy",},
     {"name":"spr_vWalkSide","order":6,"path":"sprites/spr_vWalkSide/spr_vWalkSide.yy",},

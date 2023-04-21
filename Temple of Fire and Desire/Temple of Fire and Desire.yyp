@@ -190,6 +190,7 @@
     {"id":{"name":"spr_vIdleForward","path":"sprites/spr_vIdleForward/spr_vIdleForward.yy",},},
     {"id":{"name":"btn_temple","path":"objects/btn_temple/btn_temple.yy",},},
     {"id":{"name":"obj_tile_9_16","path":"objects/obj_tile_9_16/obj_tile_9_16.yy",},},
+    {"id":{"name":"obj_riddle","path":"objects/obj_riddle/obj_riddle.yy",},},
     {"id":{"name":"spr_sDialogue","path":"sprites/spr_sDialogue/spr_sDialogue.yy",},},
     {"id":{"name":"rm_mazeHard","path":"rooms/rm_mazeHard/rm_mazeHard.yy",},},
     {"id":{"name":"TileSet5","path":"tilesets/TileSet5/TileSet5.yy",},},
