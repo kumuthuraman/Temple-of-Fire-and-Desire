@@ -6,9 +6,9 @@
     {"name":"explorer","order":2,"path":"folders/Sprites/characters/explorer.yy",},
     {"name":"student","order":3,"path":"folders/Sprites/characters/student.yy",},
     {"name":"vacationer","order":4,"path":"folders/Sprites/characters/vacationer.yy",},
+    {"name":"kakuroPuzzle","order":20,"path":"folders/Sprites/kakuroPuzzle.yy",},
     {"name":"linesPuzzle","order":16,"path":"folders/Sprites/linesPuzzle.yy",},
     {"name":"tilePuzzle","order":18,"path":"folders/Sprites/tilePuzzle.yy",},
-    {"name":"kakuroPuzzle","order":20,"path":"folders/Sprites/kakuroPuzzle.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_puzzleComplete","order":2,"path":"objects/obj_puzzleComplete/obj_puzzleComplete.yy",},

@@ -15,5 +15,6 @@ if room == rm_temple {
 }
 else  {
 	layer_sequence_create("Transition",1920,1080,sq_fadeIn);
+	global.rm_from = room;
 	room_goto(rm);
 }
