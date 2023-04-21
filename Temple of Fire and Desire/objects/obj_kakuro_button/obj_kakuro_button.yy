@@ -31,8 +31,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "spr_line",
-    "path": "sprites/spr_line/spr_line.yy",
+    "name": "spr_kakuro",
+    "path": "sprites/spr_kakuro/spr_kakuro.yy",
   },
   "spriteMaskId": null,
   "visible": false,

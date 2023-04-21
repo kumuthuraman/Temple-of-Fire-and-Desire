@@ -11,13 +11,11 @@ if room != rm_linesEasy and room != rm_linesHard {
 	switch(facing){
 		case "down":	
 			sprite_index = idle_forward
-			if (place_meeting(x, y+1, obj_puzzle) and keyboard_check(ord("E"))) then room_goto(rm_kakuroEasy)
-		break;
+			break;
 		
 		case "up":
 			sprite_index = idle_back
-			if (place_meeting(x, y-1, obj_puzzle) and keyboard_check(ord("E"))) then room_goto(rm_kakuroEasy)
-		break;
+			break;
 		
 		case "left":
 			sprite_index = idle_side
@@ -64,6 +62,28 @@ if room != rm_linesEasy and room != rm_linesHard {
 // Player interaction and movement when player enters the vines/zipline room
 if room == rm_linesEasy or room == rm_linesHard {
 	if (place_meeting(x, y, obj_vinesZipline)) {
+		
+		image_xscale = 1
+	
+	switch(facing){
+		case "down":	
+			sprite_index = idle_forward
+			break;
+		
+		case "up":
+			sprite_index = idle_back
+			break;
+		
+		case "left":
+			sprite_index = idle_side
+		break;
+		
+		case "right":
+			image_xscale = -1
+			sprite_index = idle_side
+		break;
+	}
+		
 		// Move the player right
 		if (keyboard_check(vk_right) || keyboard_check(ord("D"))) {
 	    x += moveSpeed;
