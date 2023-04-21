@@ -6,5 +6,10 @@ if(answers[0,0] + answers[1,0] + answers [2,0] == top[0] &&
    answers[1,0] + answers[1,1]  + answers[1,2] == side[1] &&
    answers[2,0] + answers[2,1] + answers[2,2] == side[2]){
 	   global.kakuroHard = true;
+	   if global.kH1 == false {
+		global.kH1 = true;
+		global.numGems++;
+		global.numRiddles++;
+	}
 	   room_goto(rm_ground);
 }
