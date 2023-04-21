@@ -3,7 +3,7 @@
 
 
 draw_sprite(door,door, x, y)
-draw_text(x, y, "Enter");
+//draw_text(x, y, "Enter");
 
 if global.kakuroEasy == true and x == 256 and y == 665{
 	draw_sprite(bkg_spr_doorKakuro, door, x, y)
