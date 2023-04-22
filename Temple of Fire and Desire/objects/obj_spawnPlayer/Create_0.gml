@@ -12,3 +12,4 @@ if global.player == 3 {
 if global.player == 4 {
 	instance_create_layer(x, y, "Player", obj_vacationer)
 }
+instance_destroy()
