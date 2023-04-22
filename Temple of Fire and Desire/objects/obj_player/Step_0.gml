@@ -2,6 +2,11 @@
 // Set the player's movement speed
 moveSpeed = 4;
 
+if room == rm_sacrifice and y > 832 {
+	y -= 2;
+	sprite_index = walk_back
+	facing = "up"
+}
 if room == rm_hallway {
 	y -= 2;
 	sprite_index = walk_back
