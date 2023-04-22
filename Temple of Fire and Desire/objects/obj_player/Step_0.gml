@@ -121,3 +121,11 @@ if room == rm_linesEasy or room == rm_linesHard {
 		}
 	}
 }
+
+// torches speed up when player is close
+torch = instance_nearest(x, y, obj_fire);
+if point_distance(x, y, torch.x, torch.y) < 300 {
+  torch.image_speed = 3;
+} else {
+  torch.image_speed = 1;
+}

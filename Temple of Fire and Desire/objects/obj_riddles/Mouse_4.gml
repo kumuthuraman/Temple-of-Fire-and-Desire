@@ -5,7 +5,6 @@ if open {
 	open = false;
 	layer_set_visible("Riddles", false);
 	layer_set_visible("Riddles_1", false);
-	global.numRiddles++;
 }
 
 // player closes riddle inventory
