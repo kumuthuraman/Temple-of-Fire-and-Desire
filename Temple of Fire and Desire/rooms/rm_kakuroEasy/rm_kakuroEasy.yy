@@ -35,7 +35,7 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_kakuro_button","path":"objects/obj_kakuro_button/obj_kakuro_button.yy",},"propertyId":{"name":"row","path":"objects/obj_kakuro_button/obj_kakuro_button.yy",},"value":"1",},
           ],"rotation":0.0,"scaleX":5.0,"scaleY":5.0,"x":960.0,"y":736.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3877A743","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"properties":[
-            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"propertyId":{"name":"rm","path":"objects/obj_door/obj_door.yy",},"value":"rm_ground",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"propertyId":{"name":"rm","path":"objects/obj_door/obj_door.yy",},"value":"rm_main",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":1024.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1_1","assets":[
