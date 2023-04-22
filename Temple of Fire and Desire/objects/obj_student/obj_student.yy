@@ -39,8 +39,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_student",
-    "path": "sprites/spr_student/spr_student.yy",
+    "name": "spr_sIdleForward",
+    "path": "sprites/spr_sIdleForward/spr_sIdleForward.yy",
   },
   "spriteMaskId": null,
   "visible": true,

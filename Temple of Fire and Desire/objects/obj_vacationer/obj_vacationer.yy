@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_vacationer",
-    "path": "sprites/spr_vacationer/spr_vacationer.yy",
+    "name": "spr_vIdleForward",
+    "path": "sprites/spr_vIdleForward/spr_vIdleForward.yy",
   },
   "spriteMaskId": null,
   "visible": true,

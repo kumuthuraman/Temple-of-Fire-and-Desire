@@ -39,8 +39,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_explorer",
-    "path": "sprites/spr_explorer/spr_explorer.yy",
+    "name": "spr_eIdleForward",
+    "path": "sprites/spr_eIdleForward/spr_eIdleForward.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_vinesZipline",
+  "name": "obj_lines",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "directional",
-    "path": "sprites/directional/directional.yy",
+    "name": "spr_stones",
+    "path": "sprites/spr_stones/spr_stones.yy",
   },
   "spriteMaskId": null,
   "visible": true,

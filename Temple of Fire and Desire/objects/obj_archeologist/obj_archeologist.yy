@@ -39,8 +39,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_archeologist",
-    "path": "sprites/spr_archeologist/spr_archeologist.yy",
+    "name": "spr_aIdleForward",
+    "path": "sprites/spr_aIdleForward/spr_aIdleForward.yy",
   },
   "spriteMaskId": null,
   "visible": true,

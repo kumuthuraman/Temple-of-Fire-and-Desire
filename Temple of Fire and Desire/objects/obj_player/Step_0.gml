@@ -2,6 +2,9 @@
 // Set the player's movement speed
 moveSpeed = 4;
 
+//if room == rm_temple {
+//	sprite_index = idle_forward;
+//}
 
 // Player interaction and movement when not in vines/zipline room
 if room != rm_linesEasy and room != rm_linesHard {
@@ -61,7 +64,7 @@ if room != rm_linesEasy and room != rm_linesHard {
 
 // Player interaction and movement when player enters the vines/zipline room
 if room == rm_linesEasy or room == rm_linesHard {
-	if (place_meeting(x, y, obj_vinesZipline)) {
+	if (place_meeting(x, y, obj_lines)) {
 		
 		image_xscale = 1
 	
@@ -115,17 +118,19 @@ if room == rm_linesEasy or room == rm_linesHard {
 	}
 		// Player interacts with object
 		if (keyboard_check_pressed(ord("E")) || keyboard_check_pressed(ord("Z"))) {
-			with (instance_nearest(x, y, obj_vinesZipline)) {
+			with (instance_nearest(x, y, obj_lines)) {
 				image_angle += 90;
 			}
 		}
 	}
 }
 
-// torches speed up when player is close
-torch = instance_nearest(x, y, obj_fire);
-if point_distance(x, y, torch.x, torch.y) < 300 {
-  torch.image_speed = 3;
-} else {
-  torch.image_speed = 1;
+if room == rm_main || room == rm_ground{
+	// torches speed up when player is close
+	torch = instance_nearest(x, y, obj_fire);
+	if point_distance(x, y, torch.x, torch.y) < 300 {
+	  torch.image_speed = 3;
+	} else {
+	  torch.image_speed = 1;
+	}
 }
