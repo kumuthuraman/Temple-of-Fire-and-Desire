@@ -33,7 +33,7 @@
     {"name":"spr_gem","order":21,"path":"sprites/spr_gem/spr_gem.yy",},
     {"name":"spr_sIdleForward","order":2,"path":"sprites/spr_sIdleForward/spr_sIdleForward.yy",},
     {"name":"spr_vWalkBackward","order":3,"path":"sprites/spr_vWalkBackward/spr_vWalkBackward.yy",},
-    {"name":"spr_puzzleDoor","order":8,"path":"sprites/spr_puzzleDoor/spr_puzzleDoor.yy",},
+    {"name":"spr_door","order":8,"path":"sprites/spr_door/spr_door.yy",},
     {"name":"obj_spawnPlayer","order":1,"path":"objects/obj_spawnPlayer/obj_spawnPlayer.yy",},
     {"name":"spr_bkg","order":7,"path":"sprites/spr_bkg/spr_bkg.yy",},
     {"name":"spr_eIdleSide","order":3,"path":"sprites/spr_eIdleSide/spr_eIdleSide.yy",},

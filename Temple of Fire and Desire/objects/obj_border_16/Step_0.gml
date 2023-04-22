@@ -17,9 +17,9 @@ if(obj_tile_1_16.x == 660 and obj_tile_1_16.y == 240 and
 	obj_tile_15_16.x == 960 and obj_tile_15_16.y == 690){
 		global.tilesHard = true;
 		if global.tH1 == false {
-		global.tH1 = true;
-		global.numGems++;
-		global.numRiddles++;
-	}
+			global.tH1 = true;
+			global.numGems++;
+			global.numRiddles++;
+		}
 		room_goto(rm_ground)
 }
