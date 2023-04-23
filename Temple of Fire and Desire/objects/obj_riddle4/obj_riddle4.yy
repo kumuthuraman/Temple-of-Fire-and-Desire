@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_riddle",
+  "name": "obj_riddle4",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_dialogue",
-    "path": "sprites/spr_dialogue/spr_dialogue.yy",
+    "name": "spr_riddle4",
+    "path": "sprites/spr_riddle4/spr_riddle4.yy",
   },
   "spriteMaskId": null,
   "visible": true,
