@@ -2,6 +2,7 @@
 // You can write your code in this editor
 
 if room == rm_main and global.numGems == 8 and global.numRiddles == 8 {
+	layer_destroy("BD_Collision")
 	shake = true
 	if y < 348 {
 		y++
