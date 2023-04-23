@@ -119,10 +119,10 @@ else {
 			}
 			// Player interacts with object
 			if (keyboard_check_pressed(ord("E")) || keyboard_check_pressed(ord("Z"))) {
-			with (instance_nearest(x, y, obj_lines)) {
-				image_angle += 90;
+				with (instance_nearest(x, y, obj_lines)) {
+					image_angle += 90;
+				}
 			}
-		}
 		}
 		else {
 			layer_sequence_create("Transition",1920,1080,sq_fadeIn);

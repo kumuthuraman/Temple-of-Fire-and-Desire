@@ -1,18 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_puzzleComplete",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":67,"eventType":9,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,},
-  ],
+  "name": "obj_vLines",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "linesPuzzle",
+    "path": "folders/Objects/linesPuzzle.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_lines",
+    "path": "objects/obj_lines/obj_lines.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_complete",
-    "path": "sprites/spr_complete/spr_complete.yy",
+    "name": "spr_vStones",
+    "path": "sprites/spr_vStones/spr_vStones.yy",
   },
   "spriteMaskId": null,
   "visible": true,
