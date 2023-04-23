@@ -30,8 +30,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "spr_fire",
-    "path": "sprites/spr_fire/spr_fire.yy",
+    "name": "bkg_spr_fire",
+    "path": "sprites/bkg_spr_fire/bkg_spr_fire.yy",
   },
   "spriteMaskId": null,
   "visible": true,
