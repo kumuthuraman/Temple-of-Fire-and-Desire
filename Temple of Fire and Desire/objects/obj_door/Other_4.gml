@@ -11,3 +11,6 @@ else {
 if room == rm_hallway {
 	layer_sequence_create("Transition",1920,1080,sq_fadeOut);
 }
+if room == rm_sacrifice {
+	layer_sequence_create("Transition",1920,1080,sq_fadeOut);
+}

@@ -96,6 +96,7 @@
     {"name":"bkg_spr_templeLayer2","order":3,"path":"sprites/bkg_spr_templeLayer2/bkg_spr_templeLayer2.yy",},
     {"name":"rm_hallway","order":2,"path":"rooms/rm_hallway/rm_hallway.yy",},
     {"name":"ft_dialogue","order":1,"path":"fonts/ft_dialogue/ft_dialogue.yy",},
+    {"name":"Sprite26132","order":43,"path":"sprites/Sprite26132/Sprite26132.yy",},
     {"name":"sq_start","order":1,"path":"sequences/sq_start/sq_start.yy",},
     {"name":"spr_riddle1","order":5,"path":"sprites/spr_riddle1/spr_riddle1.yy",},
     {"name":"spr_pDialogue","order":13,"path":"sprites/spr_pDialogue/spr_pDialogue.yy",},

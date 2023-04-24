@@ -185,6 +185,7 @@
     {"id":{"name":"bkg_spr_templeLayer2","path":"sprites/bkg_spr_templeLayer2/bkg_spr_templeLayer2.yy",},},
     {"id":{"name":"rm_hallway","path":"rooms/rm_hallway/rm_hallway.yy",},},
     {"id":{"name":"ft_dialogue","path":"fonts/ft_dialogue/ft_dialogue.yy",},},
+    {"id":{"name":"Sprite26132","path":"sprites/Sprite26132/Sprite26132.yy",},},
     {"id":{"name":"sq_start","path":"sequences/sq_start/sq_start.yy",},},
     {"id":{"name":"spr_tile_15_16","path":"sprites/spr_tile_15_16/spr_tile_15_16.yy",},},
     {"id":{"name":"spr_riddle1","path":"sprites/spr_riddle1/spr_riddle1.yy",},},
