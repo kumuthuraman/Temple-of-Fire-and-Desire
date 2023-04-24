@@ -22,7 +22,30 @@
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5c897637-2a2b-4591-a496-1747d04fa27e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
-  "nineSlice": null,
+  "nineSlice": {
+    "resourceType": "GMNineSliceData",
+    "resourceVersion": "1.0",
+    "bottom": 40,
+    "enabled": false,
+    "guideColour": [
+      4294902015,
+      4294902015,
+      4294902015,
+      4294902015,
+    ],
+    "highlightColour": 1728023040,
+    "highlightStyle": 0,
+    "left": 200,
+    "right": 40,
+    "tileMode": [
+      0,
+      0,
+      0,
+      0,
+      0,
+    ],
+    "top": 35,
+  },
   "origin": 0,
   "parent": {
     "name": "dialogueRiddles",

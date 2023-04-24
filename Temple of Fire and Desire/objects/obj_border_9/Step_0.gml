@@ -11,5 +11,8 @@ if(instance_position(660, 240, obj_tile_1_9) && instance_position(860, 240, obj_
 		global.numGems++;
 		global.numRiddles++;
 	}
+	draw_set_font(ft_charSpeech);
+	draw_set_color(c_black);
+	
 		room_goto(rm_main)
 }
