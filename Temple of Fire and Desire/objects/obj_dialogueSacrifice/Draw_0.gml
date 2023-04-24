@@ -21,6 +21,7 @@ if (room == rm_sacrifice and line >= 20 and global.firstS == true){
 	draw_set_color(c_black);
 	draw_sprite(outsideTempleText[line], 0, 960, 856);
 	draw_text_ext(870, 770, outsideTemple[line], stringHeight, boxWidth);
+	
 	alarm[0] = 100
 	global.firstS = false;
 	instance_destroy()
@@ -31,6 +32,7 @@ if (room == rm_sacrifice and line >= 20 and global.firstS == true){
 	draw_set_color(c_black);
 	draw_sprite(outsideTempleText[line], 0, 960, 856);
 	draw_text_ext(870, 770, outsideTemple[line], stringHeight, boxWidth);
+	
 	alarm[0] = 100
 	global.firstS = false;
 	instance_destroy()
@@ -41,6 +43,7 @@ if (room == rm_sacrifice and line >= 20 and global.firstS == true){
 	draw_set_color(c_black);
 	draw_sprite(outsideTempleText[line], 0, 960, 856);
 	draw_text_ext(870, 770, outsideTemple[line], stringHeight, boxWidth);
+
 	alarm[0] = 100
 	global.firstS = false;
 	instance_destroy()

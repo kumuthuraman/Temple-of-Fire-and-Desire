@@ -5,6 +5,7 @@ boxWidth = 350
 line = 0;
 stringHeight = string_height(text);
 
+
 textBoxes[0] = spr_pDialogue;
 textBoxes[1] = spr_aDialogue;
 textBoxes[2] = spr_eDialogue;

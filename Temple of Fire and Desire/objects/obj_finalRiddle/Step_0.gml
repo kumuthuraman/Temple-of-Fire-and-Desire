@@ -9,7 +9,7 @@ if keyboard_check_pressed(vk_enter) {
         input = keyboard_string;
         
         // Check if the entered password is correct
-        if input == queen {
+        if string_upper(input) == queen {
 			global.win = true;
             //show_message(string(global.win));
             password_checked = true;
