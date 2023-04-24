@@ -24,27 +24,3 @@ if keyboard_check_pressed(vk_enter) {
     }
 }
 }
-//if keyboard_check_pressed(vk_enter) { // check if enter key is pressed
-//    if input == queen { // check if input matches password
-//        global.win = true
-//		instance_destroy()
-//	   layer_set_visible("Final", false);
-//		show_message("Access granted!"); // display success message
-//        input = ""; // clear input variable
-//    } else { // if input does not match password
-//        global.lose = true
-//		show_message("Incorrect password."); // display error message
-//        input = ""; // clear input variable
-//    }
-//}
-
-//if input == queen {
-//   if keyboard_check_pressed(vk_enter){
-	   
-//   }
-//}
-//else {
-//	if keyboard_check_pressed(vk_enter){
-	   
-//   }
-//}
