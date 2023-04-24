@@ -131,6 +131,7 @@ else {
 	}
 // Player interaction and movement when player enters the lines room
 	if room == rm_mazeEasy or room == rm_mazeHard {
+		moveSpeed = 2
 		if (place_meeting(x, y, obj_maze)) {
 			image_xscale = 1
 			switch(facing){

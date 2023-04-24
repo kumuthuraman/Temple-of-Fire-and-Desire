@@ -32,6 +32,7 @@
     {"name":"spr_eDialogue","order":2,"path":"sprites/spr_eDialogue/spr_eDialogue.yy",},
     {"name":"spr_riddle3","order":7,"path":"sprites/spr_riddle3/spr_riddle3.yy",},
     {"name":"bkg_spr_templeLowLayer1","order":15,"path":"sprites/bkg_spr_templeLowLayer1/bkg_spr_templeLowLayer1.yy",},
+    {"name":"rm_mazeEasy","order":1,"path":"rooms/rm_mazeEasy/rm_mazeEasy.yy",},
     {"name":"bkg_spr_sacrificeLayer4","order":20,"path":"sprites/bkg_spr_sacrificeLayer4/bkg_spr_sacrificeLayer4.yy",},
     {"name":"bkg_spr_templeLayer4","order":12,"path":"sprites/bkg_spr_templeLayer4/bkg_spr_templeLayer4.yy",},
     {"name":"spr_riddle","order":22,"path":"sprites/spr_riddle/spr_riddle.yy",},
