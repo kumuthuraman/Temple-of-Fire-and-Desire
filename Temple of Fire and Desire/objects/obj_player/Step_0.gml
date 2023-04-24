@@ -2,10 +2,15 @@
 // Set the player's movement speed
 moveSpeed = 4;
 
-if room == rm_sacrifice and y > 832 {
-	y -= 2;
-	sprite_index = walk_back
-	facing = "up"
+if room == rm_sacrifice {
+	if y > 832 {
+		y -= 2;
+		sprite_index = walk_back
+		facing = "up"
+	}
+	else {
+		sprite_index = idle_back
+	}
 }
 if room == rm_hallway {
 	y -= 2;
@@ -14,7 +19,7 @@ if room == rm_hallway {
 }
 else {
 	// Player interaction and movement when not in lines room
-	if room != rm_linesEasy and room != rm_linesHard and room != rm_mazeEasy and room != rm_mazeHard {
+	if room != rm_linesEasy and room != rm_linesHard and room != rm_mazeEasy and room != rm_mazeHard and room != rm_sacrifice and room != rm_end{
 		// Move the player right
 		image_xscale = 1
 	

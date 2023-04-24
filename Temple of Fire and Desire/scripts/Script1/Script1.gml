@@ -7,6 +7,11 @@ global.numRiddles = 0; // number of riddles player collected
 global.start = true; // first time opening game
 global.firstT = true;
 global.firstM = true;
+global.firstG = true;
+global.firstS = true;
+global.finalRiddle = false;
+global.win = false;
+global.lose = false;
 
 
 // variables to see if the puzzles are complete

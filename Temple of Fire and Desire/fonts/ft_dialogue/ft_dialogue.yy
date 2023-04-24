@@ -1395,7 +1395,7 @@
   ],
   "regenerateBitmap": false,
   "sampleText": "abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\n\n\n      Temple of Fire and Desire\n   —————————— Credits ——————————\t\t  \n                    §\n   ————————————————————————————\n   |              Artist                 |\n   ————————————————————————————\n   |             Hallie J.               |\n   ————————————————————————————\n                    §\n   ————————————————————————————\n   |             Designer              |\n   ————————————————————————————\n   |             Renee S.              |\n   ————————————————————————————\n                    §\t\t\t\t\n   ————————————————————————————\n   |             Producer             |\n   ————————————————————————————\n   |             Kiran M.              |\n   ————————————————————————————\n                    §\t\n   ————————————————————————————\n   |           Programmer           |\n   ————————————————————————————\n   |              Nick K.              |\n   ————————————————————————————\n\n\n",
-  "size": 15.0,
+  "size": 10.0,
   "styleName": "Regular",
   "textureGroupId": {
     "name": "Default",
