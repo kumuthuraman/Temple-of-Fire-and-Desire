@@ -38,3 +38,19 @@ draw_text(1232,429, answers[0,2])
 draw_text(1232,618, answers[1,2])
 draw_text(1232,813, answers[2,2])
 
+/// Student Advantages
+if global.player == 3 and room == rm_kakuroHard{
+	draw_sprite(spr_dialogue, 0, 448, 192)
+	draw_set_font(ft_game)
+	draw_set_color(c_black)
+	draw_text(420, 92, "KEY")
+	draw_text(380, 162, "x")
+	draw_text(440, 162, "x")
+	draw_text(500, 162, "x")
+	draw_text(380, 192, "x")
+	draw_text(440, 192, "x")
+	draw_text(500, 192, "x")
+	draw_text(380, 222, "x")
+	draw_text(440, 222, "x")
+	draw_text(500, 222, "x")
+}
