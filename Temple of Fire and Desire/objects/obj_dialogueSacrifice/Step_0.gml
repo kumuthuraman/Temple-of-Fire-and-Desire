@@ -4,7 +4,7 @@ if(mouse_check_button_pressed(mb_left) and global.finalRiddle == false and globa
 	line += 1;
 }
 
-if line == 9 {
+if line == 10 {
 	global.finalRiddle = true;
 	layer_set_visible("Final", true);
 }

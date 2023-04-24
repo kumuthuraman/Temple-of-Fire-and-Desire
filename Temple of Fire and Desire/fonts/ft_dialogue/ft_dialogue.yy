@@ -10,7 +10,7 @@
   "canGenerateBitmap": true,
   "charset": 0,
   "first": 0,
-  "fontName": "Chalkduster",
+  "fontName": "Chalkboard SE",
   "glyphOperations": 0,
   "glyphs": {
     "32": {"character":32,"h":42,"offset":0,"shift":13,"w":13,"x":2,"y":2,},
@@ -1395,7 +1395,7 @@
   ],
   "regenerateBitmap": false,
   "sampleText": "abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\n\n\n      Temple of Fire and Desire\n   —————————— Credits ——————————\t\t  \n                    §\n   ————————————————————————————\n   |              Artist                 |\n   ————————————————————————————\n   |             Hallie J.               |\n   ————————————————————————————\n                    §\n   ————————————————————————————\n   |             Designer              |\n   ————————————————————————————\n   |             Renee S.              |\n   ————————————————————————————\n                    §\t\t\t\t\n   ————————————————————————————\n   |             Producer             |\n   ————————————————————————————\n   |             Kiran M.              |\n   ————————————————————————————\n                    §\t\n   ————————————————————————————\n   |           Programmer           |\n   ————————————————————————————\n   |              Nick K.              |\n   ————————————————————————————\n\n\n",
-  "size": 10.0,
+  "size": 15.0,
   "styleName": "Regular",
   "textureGroupId": {
     "name": "Default",

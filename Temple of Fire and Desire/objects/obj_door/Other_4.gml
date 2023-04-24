@@ -8,3 +8,6 @@ if room == rm_temple and global.start == true{
 else {
 	layer_sequence_create("Transition",1920,1080,sq_fadeOut);
 }
+if room == rm_hallway {
+	layer_sequence_create("Transition",1920,1080,sq_fadeOut);
+}
