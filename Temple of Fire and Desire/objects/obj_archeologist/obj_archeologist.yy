@@ -14,6 +14,7 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"propertyId":{"name":"walk_back","path":"objects/obj_player/obj_player.yy",},"value":"spr_aWalkBackward",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"propertyId":{"name":"walk_forward","path":"objects/obj_player/obj_player.yy",},"value":"spr_aWalkForward",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"propertyId":{"name":"walk_side","path":"objects/obj_player/obj_player.yy",},"value":"spr_aWalkSide",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"propertyId":{"name":"death","path":"objects/obj_player/obj_player.yy",},"value":"obj_aDeath",},
   ],
   "parent": {
     "name": "characters",
