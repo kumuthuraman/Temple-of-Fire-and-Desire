@@ -3,3 +3,4 @@
 input = ""
 queen = string_upper("Asha Ignatia")
 password_checked = false;
+keyboard_string = ""
