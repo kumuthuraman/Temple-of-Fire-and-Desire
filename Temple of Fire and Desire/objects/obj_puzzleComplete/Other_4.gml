@@ -1,5 +1,23 @@
 /// @description Explorer and Vacationer Aadvantages
 
+// explorer advantage
+if room == rm_mazeEasy {
+	if global.player == 2 {
+		layer_set_visible("ePath", true)
+	}
+	else {
+		layer_set_visible("ePath", false)
+	}
+}
+if room == rm_mazeHard {
+	if global.player == 2 {
+		layer_set_visible("ePath", true)
+	}
+	else {
+		layer_set_visible("ePath", false)
+	}
+}
+
 // vacationer advantage
 if room == rm_linesEasy {
 	if global.player == 4 {

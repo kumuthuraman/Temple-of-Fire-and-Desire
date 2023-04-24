@@ -14,7 +14,7 @@ if room == rm_hallway {
 }
 else {
 	// Player interaction and movement when not in lines room
-	if room != rm_linesEasy and room != rm_linesHard {
+	if room != rm_linesEasy and room != rm_linesHard and room != rm_mazeEasy and room != rm_mazeHard {
 		// Move the player right
 		image_xscale = 1
 	
@@ -122,6 +122,60 @@ else {
 				with (instance_nearest(x, y, obj_lines)) {
 					image_angle += 90;
 				}
+			}
+		}
+		else {
+			layer_sequence_create("Transition",1920,1080,sq_fadeIn);
+			room_goto(room)
+		}
+	}
+// Player interaction and movement when player enters the lines room
+	if room == rm_mazeEasy or room == rm_mazeHard {
+		if (place_meeting(x, y, obj_maze)) {
+			image_xscale = 1
+			switch(facing){
+				case "down":	
+					sprite_index = idle_forward
+					break;
+		
+				case "up":
+					sprite_index = idle_back
+					break;
+		
+				case "left":
+					sprite_index = idle_side
+				break;
+		
+				case "right":
+					image_xscale = -1
+					sprite_index = idle_side
+				break;
+			}
+			// Move the player right
+			if (keyboard_check(vk_right) || keyboard_check(ord("D"))) {
+			    x += moveSpeed;
+				sprite_index = walk_side
+				image_xscale = -1
+				facing = "right"
+			}
+			// Move the player left
+			if (keyboard_check(vk_left) || keyboard_check(ord("A"))) {
+			    x -= moveSpeed;
+				sprite_index = walk_side
+				facing = "left"
+			}
+			// Move the player up
+			if (keyboard_check(vk_up) || keyboard_check(ord("W"))) {
+			    y -= moveSpeed;
+				sprite_index = walk_back
+				facing = "up"
+		
+			}
+			// Move the player down
+			if (keyboard_check(vk_down) || keyboard_check(ord("S"))) {
+				y += moveSpeed;
+				sprite_index = walk_forward
+				facing = "down"
 			}
 		}
 		else {
