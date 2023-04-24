@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings": [
     {"name":"characters","order":3,"path":"folders/Objects/characters.yy",},
+    {"name":"Death","order":7,"path":"folders/Objects/characters/Death.yy",},
     {"name":"dialogueRiddles","order":12,"path":"folders/Objects/dialogueRiddles.yy",},
     {"name":"kakuro","order":4,"path":"folders/Objects/kakuro.yy",},
     {"name":"linesPuzzle","order":5,"path":"folders/Objects/linesPuzzle.yy",},
@@ -15,7 +16,6 @@
     {"name":"kakuroPuzzle","order":20,"path":"folders/Sprites/kakuroPuzzle.yy",},
     {"name":"linesPuzzle","order":16,"path":"folders/Sprites/linesPuzzle.yy",},
     {"name":"tilePuzzle","order":18,"path":"folders/Sprites/tilePuzzle.yy",},
-    {"name":"Death","order":7,"path":"folders/Objects/characters/Death.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_sDeath","order":7,"path":"sprites/spr_sDeath/spr_sDeath.yy",},
