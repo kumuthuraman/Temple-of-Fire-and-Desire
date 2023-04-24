@@ -266,7 +266,6 @@
     {"id":{"name":"_spr","path":"sprites/_spr/_spr.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_sacrifice","path":"rooms/rm_sacrifice/rm_sacrifice.yy",},},
     {"roomId":{"name":"rm_temple","path":"rooms/rm_temple/rm_temple.yy",},},
     {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
     {"roomId":{"name":"rm_kakuroEasy","path":"rooms/rm_kakuroEasy/rm_kakuroEasy.yy",},},
@@ -279,6 +278,7 @@
     {"roomId":{"name":"rm_ground","path":"rooms/rm_ground/rm_ground.yy",},},
     {"roomId":{"name":"rm_hallway","path":"rooms/rm_hallway/rm_hallway.yy",},},
     {"roomId":{"name":"rm_mazeEasy","path":"rooms/rm_mazeEasy/rm_mazeEasy.yy",},},
+    {"roomId":{"name":"rm_sacrifice","path":"rooms/rm_sacrifice/rm_sacrifice.yy",},},
     {"roomId":{"name":"rm_end","path":"rooms/rm_end/rm_end.yy",},},
   ],
   "TextureGroups": [
