@@ -5,6 +5,8 @@ global.canClick = false; // can the player click on the character
 global.numGems = 0; // number of gems player collected
 global.numRiddles = 0; // number of riddles player collected
 global.start = true; // first time opening game
+global.firstT = true;
+global.firstM = true;
 
 
 // variables to see if the puzzles are complete
