@@ -32,3 +32,15 @@ draw_text(950,535, answers[0,0])
 draw_text(950,725, answers[1,0])
 draw_text(1140,535, answers[0,1])
 draw_text(1140,725, answers[1,1])
+
+/// @description Student Advantage
+if global.player == 3 and room == rm_kakuroEasy{
+	draw_sprite(spr_dialogue, 0, 512, 288)
+	draw_set_font(ft_game)
+	draw_set_color(c_black)
+	draw_text(450, 188, "KEY")
+	draw_text(262, 228, "Top Left: 8")
+	draw_text(512, 228, "Top Right: 6")
+	draw_text(262, 288, "Bottom Left: 1")
+	draw_text(512, 288, "Bottom Right: 2")
+}
