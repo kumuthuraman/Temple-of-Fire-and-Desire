@@ -15,6 +15,11 @@ if (shake)
    var _xval = choose(-shake_magnitude, shake_magnitude); 
    var _yval = choose(-shake_magnitude, shake_magnitude); 
    camera_set_view_pos(view_camera[0], _xval, _yval); 
+   
+   if (!door_sound_playing) {
+	   audio_play_sound(snd_bigDoor, 9, false)
+	   door_sound_playing = true
+   }
 
    if (shake_time <= 0) 
    { 

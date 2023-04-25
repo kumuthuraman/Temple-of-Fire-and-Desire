@@ -111,6 +111,7 @@
     {"name":"inst_5E7EE248","path":"rooms/rm_linesHard/rm_linesHard.yy",},
     {"name":"inst_7C4EA3B0","path":"rooms/rm_linesHard/rm_linesHard.yy",},
     {"name":"inst_18C86B82","path":"rooms/rm_linesHard/rm_linesHard.yy",},
+    {"name":"inst_A173715","path":"rooms/rm_linesHard/rm_linesHard.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -128,6 +129,7 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"propertyId":{"name":"rm","path":"objects/obj_door/obj_door.yy",},"value":"rm_ground",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":18.0,"y":992.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_18C86B82","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_help","path":"objects/obj_help/obj_help.yy",},"properties":[],"rotation":0.0,"scaleX":0.2857143,"scaleY":0.2982456,"x":96.0,"y":1056.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_A173715","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_music","path":"objects/obj_music/obj_music.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1728.0,"y":64.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"vLines","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6E36C6F4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_lines","path":"objects/obj_lines/obj_lines.yy",},"properties":[],"rotation":90.0,"scaleX":3.0,"scaleY":0.5,"x":96.0,"y":544.0,},

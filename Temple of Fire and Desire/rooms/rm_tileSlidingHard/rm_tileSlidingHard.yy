@@ -30,6 +30,7 @@
     {"name":"inst_544BF28F","path":"rooms/rm_tileSlidingHard/rm_tileSlidingHard.yy",},
     {"name":"inst_4B4342A0","path":"rooms/rm_tileSlidingHard/rm_tileSlidingHard.yy",},
     {"name":"inst_2B6C312D","path":"rooms/rm_tileSlidingHard/rm_tileSlidingHard.yy",},
+    {"name":"inst_6A3F0852","path":"rooms/rm_tileSlidingHard/rm_tileSlidingHard.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -68,6 +69,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_544BF28F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":17.09375,"x":1950.0,"y":545.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4B4342A0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":17.09375,"x":-30.0,"y":545.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2B6C312D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"properties":[],"rotation":0.0,"scaleX":30.062502,"scaleY":1.0,"x":960.00006,"y":1120.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6A3F0852","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_music","path":"objects/obj_music/obj_music.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1810.0,"y":60.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Floor","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":68,"SerialiseWidth":120,"TileCompressedData":[
 1841,367,360,361,362,363,364,365,366,367,392,393,394,395,396,397,398,399,392,393,394,395,396,397,398,399,392,393,394,395,396,397,398,399,264,265,266,267,268,269,270,271,264,265,266,267,268,269,270,271,264,265,266,267,268,269,270,271,296,297,298,299,300,301,302,303,296,297,298,299,300,301,302,296,297,298,299,300,301,302,303,296,297,298,299,300,301,302,303,393,394,395,396,397,398,399,392,393,394,395,396,397,398,399,392,393,394,395,392,393,394,395,396,397,398,399,392,393,394,395,

@@ -83,6 +83,7 @@
     {"name":"inst_7E81DDA8","path":"rooms/rm_linesEasy/rm_linesEasy.yy",},
     {"name":"inst_39DB2540","path":"rooms/rm_linesEasy/rm_linesEasy.yy",},
     {"name":"inst_50A5D0DE","path":"rooms/rm_linesEasy/rm_linesEasy.yy",},
+    {"name":"inst_3D1EEA52","path":"rooms/rm_linesEasy/rm_linesEasy.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -101,6 +102,7 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"propertyId":{"name":"door","path":"objects/obj_door/obj_door.yy",},"value":"spr_door",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":110.0,"y":896.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_50A5D0DE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_help","path":"objects/obj_help/obj_help.yy",},"properties":[],"rotation":0.0,"scaleX":0.71428573,"scaleY":0.71929824,"x":192.0,"y":992.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3D1EEA52","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_music","path":"objects/obj_music/obj_music.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1760.0,"y":32.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"vLines","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3AC3E70D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_lines","path":"objects/obj_lines/obj_lines.yy",},"properties":[],"rotation":90.0,"scaleX":3.0,"scaleY":0.5,"x":192.0,"y":256.0,},

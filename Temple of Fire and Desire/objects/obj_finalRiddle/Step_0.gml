@@ -13,10 +13,13 @@ if keyboard_check_pressed(vk_enter) {
 			global.win = true;
             //show_message(string(global.win));
             password_checked = true;
+			audio_play_sound(snd_goodEnd, 10, false)
         } else {
 			global.lose = true;
 			//show_message(string(global.win));
 			password_checked = true;
+			audio_stop_all()
+			audio_play_sound(snd_badEnd, 10, true)
 			instance_destroy()
             //show_message("Incorrect password entered!");
             // Do something else here if the password is incorrect

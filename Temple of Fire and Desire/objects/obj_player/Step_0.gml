@@ -62,7 +62,6 @@ else {
 		    y -= moveSpeed;
 			sprite_index = walk_back
 			facing = "up"
-		
 		}
 
 		// Move the player down
@@ -70,6 +69,21 @@ else {
 			y += moveSpeed;
 			sprite_index = walk_forward
 			facing = "down"
+			
+		}
+		
+		if(sprite_index == walk_forward or sprite_index == walk_back or sprite_index == walk_side){
+			if(!walk_sound){
+				current_walk_sound = audio_play_sound(snd_walk, 9, true)
+				walk_sound = true
+			}
+		}
+		
+		if(sprite_index == idle_forward or sprite_index == idle_back or sprite_index == idle_side){
+			if(walk_sound){
+				audio_stop_sound(current_walk_sound)
+				walk_sound = false
+			}
 		}
 	
 	}
@@ -122,9 +136,25 @@ else {
 				sprite_index = walk_forward
 				facing = "down"
 			}
+			
+			if(sprite_index == walk_forward or sprite_index == walk_back or sprite_index == walk_side){
+				if(!walk_sound){
+					current_walk_sound = audio_play_sound(snd_walk, 9, true)
+					walk_sound = true
+				}
+			}
+		
+			if(sprite_index == idle_forward or sprite_index == idle_back or sprite_index == idle_side){
+				if(walk_sound){
+					audio_stop_sound(current_walk_sound)
+					walk_sound = false
+				}
+			}
+			
 			// Player interacts with object
 			if (keyboard_check_pressed(ord("E")) || keyboard_check_pressed(ord("Z"))) {
 				with (instance_nearest(x, y, obj_lines)) {
+					audio_play_sound(snd_rotate, 9, false)
 					image_angle += 90;
 				}
 			}
@@ -184,6 +214,7 @@ else {
 				facing = "down"
 			}
 		}
+		
 		else {
 			layer_sequence_create("Transition",1920,1080,sq_fadeIn);
 			room_goto(room)

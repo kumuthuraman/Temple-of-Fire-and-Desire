@@ -2,6 +2,7 @@
 
 // player opens riddle inventory
 if open {
+	audio_play_sound(snd_riddle, 9, false)
 	open = false;
 	layer_set_visible("Riddles", false);
 	layer_set_visible("Riddles_1", false);
@@ -9,6 +10,7 @@ if open {
 
 // player closes riddle inventory
 else {
+	audio_play_sound(snd_riddle, 9, false)
 	open = true;
 	layer_set_visible("Riddles", true);
 	layer_set_visible("Riddles_1", true);

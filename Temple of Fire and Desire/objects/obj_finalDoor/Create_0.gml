@@ -4,3 +4,5 @@ shake = false;
 shake_time = 30;
 shake_magnitude = 10;
 shake_fade = 0.25;
+
+door_sound_playing = false;
