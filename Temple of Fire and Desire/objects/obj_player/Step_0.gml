@@ -213,6 +213,20 @@ else {
 				sprite_index = walk_forward
 				facing = "down"
 			}
+			
+			if(sprite_index == walk_forward or sprite_index == walk_back or sprite_index == walk_side){
+				if(!walk_sound){
+					current_walk_sound = audio_play_sound(snd_walk, 9, true)
+					walk_sound = true
+				}
+			}
+		
+			if(sprite_index == idle_forward or sprite_index == idle_back or sprite_index == idle_side){
+				if(walk_sound){
+					audio_stop_sound(current_walk_sound)
+					walk_sound = false
+				}
+			}
 		}
 		
 		else {

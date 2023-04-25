@@ -17,6 +17,7 @@
     {"name":"Shaders","order":9,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":10,"path":"folders/Sounds.yy",},
     {"name":"Music","order":8,"path":"folders/Sounds/Music.yy",},
+    {"name":"Sounds","order":9,"path":"folders/Sounds/Sounds.yy",},
     {"name":"Sprites","order":11,"path":"folders/Sprites.yy",},
     {"name":"backgrounds","order":14,"path":"folders/Sprites/backgrounds.yy",},
     {"name":"characters","order":15,"path":"folders/Sprites/characters.yy",},
@@ -30,7 +31,6 @@
     {"name":"tilePuzzle","order":18,"path":"folders/Sprites/tilePuzzle.yy",},
     {"name":"Tile Sets","order":12,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":13,"path":"folders/Timelines.yy",},
-    {"name":"Sounds","order":9,"path":"folders/Sounds/Sounds.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_sDeath","order":7,"path":"sprites/spr_sDeath/spr_sDeath.yy",},
