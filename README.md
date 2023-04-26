@@ -1,12 +1,12 @@
 # Temple of Fire and Desire
 
-- CONNECT 4 TEAM -
+---- CONNECT 4 TEAM ----
 Producer: Kiran Muthuraman
 Artist: Hallie Johnson
 Programmer: Nick Kotsakis
 Designer: Renee Szeghy
 
-- INSTRUCTIONS - 
+---- INSTRUCTIONS ---- 
 Keys:
  - W: Move up
  - A: Move left
